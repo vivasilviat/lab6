@@ -40,3 +40,12 @@ h2 {
 .burger > div {
   margin: 0 auto;
 }
+
+/* This center-aligns all of the ingredients */
+.burger2 > div {
+  margin: 0 auto;
+}
+/* Set the maximum width of your burger */
+.burger2 {
+  max-width: 500px;
+  margin: 0 auto;
